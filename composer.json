@@ -1,0 +1,9 @@
+{
+    "name": "anomaly/standard_product_type-extension",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Anomaly\\StandardProductTypeExtension\\": "src/"
+        }
+    }
+}
