@@ -1,3 +1,3 @@
-# Standard Product Type Extension
+# Standard Product Handler Extension
 
-The standard product type for the Catalog module.
+The standard product handler for the Catalog module.

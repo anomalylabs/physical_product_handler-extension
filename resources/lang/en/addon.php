@@ -2,6 +2,6 @@
 
 return [
     'title'       => 'Standard Product',
-    'name'        => 'Standard Product Type Extension',
-    'description' => 'The standard product type for the Catalog module.'
+    'name'        => 'Standard Product Handler',
+    'description' => 'The standard product handler for the Products module.'
 ];

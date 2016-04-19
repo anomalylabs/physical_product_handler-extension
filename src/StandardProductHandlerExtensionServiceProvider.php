@@ -1,8 +1,8 @@
-<?php namespace Anomaly\StandardProductTypeExtension;
+<?php namespace Anomaly\StandardProductHandlerExtension;
 
 use Anomaly\Streams\Platform\Addon\AddonServiceProvider;
 
-class StandardProductTypeExtensionServiceProvider extends AddonServiceProvider
+class StandardProductHandlerExtensionServiceProvider extends AddonServiceProvider
 {
 
     protected $plugins = [];
