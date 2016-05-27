@@ -1,8 +1,8 @@
-<?php namespace Anomaly\StandardProductHandlerExtension;
+<?php namespace Anomaly\PhysicalProductHandlerExtension;
 
 use Anomaly\Streams\Platform\Addon\Extension\Extension;
 
-class StandardProductHandlerExtension extends Extension
+class PhysicalProductHandlerExtension extends Extension
 {
 
     /**
@@ -16,6 +16,6 @@ class StandardProductHandlerExtension extends Extension
      *
      * @var null|string
      */
-    protected $provides = 'anomaly.module.products::handler.standard';
+    protected $provides = 'anomaly.module.products::handler.physical';
 
 }
