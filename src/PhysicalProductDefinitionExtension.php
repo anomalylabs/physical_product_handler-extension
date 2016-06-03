@@ -1,16 +1,16 @@
-<?php namespace Anomaly\PhysicalProductHandlerExtension;
+<?php namespace Anomaly\PhysicalProductDefinitionExtension;
 
 use Anomaly\Streams\Platform\Addon\Extension\Extension;
 
 /**
- * Class PhysicalProductHandlerExtension
+ * Class PhysicalProductDefinitionExtension
  *
  * @link          http://pyrocms.com/
  * @author        PyroCMS, Inc. <support@pyrocms.com>
  * @author        Ryan Thompson <ryan@pyrocms.com>
- * @package       Anomaly\PhysicalProductHandlerExtension
+ * @package       Anomaly\PhysicalProductDefinitionExtension
  */
-class PhysicalProductHandlerExtension extends Extension
+class PhysicalProductDefinitionExtension extends Extension
 {
 
     /**

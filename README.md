@@ -1,3 +1,3 @@
-# Physical Product Handler Extension
+# Physical Product Definition Extension
 
-The physical product handler for the Catalog module.
+The physical product definition for the Catalog module.
