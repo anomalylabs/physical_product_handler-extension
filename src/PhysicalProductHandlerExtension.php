@@ -2,20 +2,23 @@
 
 use Anomaly\Streams\Platform\Addon\Extension\Extension;
 
+/**
+ * Class PhysicalProductHandlerExtension
+ *
+ * @link          http://pyrocms.com/
+ * @author        PyroCMS, Inc. <support@pyrocms.com>
+ * @author        Ryan Thompson <ryan@pyrocms.com>
+ * @package       Anomaly\PhysicalProductHandlerExtension
+ */
 class PhysicalProductHandlerExtension extends Extension
 {
 
     /**
-     * This extension provides...
-     *
-     * This should contain the dot namespace
-     * of the addon this extension is for followed
-     * by the purpose.variation of the extension.
-     *
-     * For example anomaly.module.store::gateway.stripe
+     * This extension provides the default physical
+     * product definition for the products module.
      *
      * @var null|string
      */
-    protected $provides = 'anomaly.module.products::handler.physical';
+    protected $provides = 'anomaly.module.products::definition.physical_product';
 
 }
