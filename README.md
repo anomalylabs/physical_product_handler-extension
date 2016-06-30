@@ -1,3 +1,3 @@
-# Physical Product Definition Extension
+# Physical Product Behavior Extension
 
-The physical product definition for the Catalog module.
+The physical product behavior for the Catalog module.

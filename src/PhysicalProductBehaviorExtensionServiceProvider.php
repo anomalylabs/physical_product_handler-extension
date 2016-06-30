@@ -1,8 +1,8 @@
-<?php namespace Anomaly\PhysicalProductDefinitionExtension;
+<?php namespace Anomaly\PhysicalProductBehaviorExtension;
 
 use Anomaly\Streams\Platform\Addon\AddonServiceProvider;
 
-class PhysicalProductDefinitionExtensionServiceProvider extends AddonServiceProvider
+class PhysicalProductBehaviorExtensionServiceProvider extends AddonServiceProvider
 {
 
     protected $plugins = [];
