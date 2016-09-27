@@ -14,11 +14,11 @@ class PhysicalProductExtension extends Extension
 {
 
     /**
-     * This extension provides the default physical
-     * product behavior for the products module.
+     * This extension provides the default
+     * physical product for the products module.
      *
      * @var null|string
      */
-    protected $provides = 'anomaly.module.products::behavior.physical_product';
+    protected $provides = 'anomaly.module.products::product.physical';
 
 }
