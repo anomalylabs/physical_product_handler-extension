@@ -1,9 +1,9 @@
 {
-    "name": "anomaly/physical_product_behavior-extension",
+    "name": "anomaly/physical_product-extension",
     "type": "streams-addon",
     "autoload": {
         "psr-4": {
-            "Anomaly\\PhysicalProductBehaviorExtension\\": "src/"
+            "Anomaly\\PhysicalProductExtension\\": "src/"
         }
     }
 }

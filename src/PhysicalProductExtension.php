@@ -1,16 +1,16 @@
-<?php namespace Anomaly\PhysicalProductBehaviorExtension;
+<?php namespace Anomaly\PhysicalProductExtension;
 
 use Anomaly\Streams\Platform\Addon\Extension\Extension;
 
 /**
- * Class PhysicalProductBehaviorExtension
+ * Class PhysicalProductExtension
  *
  * @link          http://pyrocms.com/
  * @author        PyroCMS, Inc. <support@pyrocms.com>
  * @author        Ryan Thompson <ryan@pyrocms.com>
- * @package       Anomaly\PhysicalProductBehaviorExtension
+ * @package       Anomaly\PhysicalProductExtension
  */
-class PhysicalProductBehaviorExtension extends Extension
+class PhysicalProductExtension extends Extension
 {
 
     /**
