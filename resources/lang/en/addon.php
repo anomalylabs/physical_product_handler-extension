@@ -2,6 +2,6 @@
 
 return [
     'title'       => 'Physical Product',
-    'name'        => 'Physical Product Behavior',
-    'description' => 'The physical product behavior for the Products module.'
+    'name'        => 'Physical Product Extension',
+    'description' => 'The physical product extension for the Products module.'
 ];
