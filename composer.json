@@ -1,6 +1,9 @@
 {
     "name": "anomaly/physical_product-extension",
     "type": "streams-addon",
+    "require": {
+        "anomaly/streams-platform": "1.1.*"
+    },
     "autoload": {
         "psr-4": {
             "Anomaly\\PhysicalProductExtension\\": "src/"
